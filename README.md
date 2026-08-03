@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-hero.svg" width="100%" alt="Tony Lo, full-stack developer — web systems, AI agents, and interactive games" />
+<img src="./assets/terminal-hero.svg" width="100%" alt="Tony Lo, full-stack developer — web systems, QA automation, graph ML, and interactive games" />
 
 <a href="https://github.com/tonytheg?tab=repositories"><img src="https://img.shields.io/badge/explore%20the%20work-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Explore Tony's GitHub repositories" /></a>
 <a href="mailto:tonyloyat@gmail.com"><img src="https://img.shields.io/badge/contact-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tony" /></a>
@@ -9,11 +9,11 @@
 
 ## 👋 About
 
-I'm **Tony Lo**, a Computer Science graduate from **Auburn University**. I build polished, end-to-end software: responsive interfaces, dependable data-backed services, test automation, and interactive AI-driven experiences.
+I'm **Tony Lo**, a Computer Science graduate from **Auburn University**. I build polished, end-to-end software: responsive interfaces, dependable data-backed services, test automation, graph-based ML experiments, and interactive games.
 
 - 🎓 **B.S. Computer Science** — Auburn University (Class of 2026)
 - 🌐 **Product engineering** — React, Node.js, Firebase, PHP, MySQL
-- 🤖 **Applied AI** — intelligent game agents and graph-based ML classifiers
+- 📊 **Applied ML** — graph feature engineering and from-scratch k-NN evaluation
 - 🎮 **Interactive development** — Unity3D and HTML5 Canvas
 - 🌍 **Trilingual** — English · Mandarin · Cantonese
 
@@ -101,27 +101,7 @@ Full-stack relational database system for an online bookstore with 19 complex SQ
 
 </td>
 </tr>
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🤖 [Pacman AI Agents](https://github.com/tonytheg/pacman-ai-agents)
-**Python · Minimax · Alpha-Beta Pruning · Expectimax**
-
-Intelligent game-playing agents for Pacman using adversarial search algorithms — Minimax, Alpha-Beta Pruning, and Expectimax.
-
-</td>
-</tr>
 </table>
-</div>
-
-<br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tonytheg&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
-
 </div>
 
 <br/>

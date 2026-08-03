@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Tony Lo — Full-stack developer</title>
-  <desc id="desc">An animated developer console introducing Tony Lo, a full-stack developer who builds web, AI, and interactive experiences.</desc>
+  <desc id="desc">An animated developer console introducing Tony Lo, a full-stack developer who builds web systems, QA automation, graph ML, and interactive games.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07111f"/>
@@ -46,7 +46,7 @@
     <text x="76" y="276" fill="#9fb1cf" font-size="15">Designing dependable software, from interface to data.</text>
     <g font-size="14" fill="#b8c9e6">
       <text x="76" y="317" fill="#67e8f9">web systems</text>
-      <text x="244" y="317" fill="#a5b4fc">AI agents</text>
+      <text x="244" y="317" fill="#a5b4fc">graph ML</text>
       <text x="389" y="317" fill="#e9d5ff">interactive games</text>
     </g>
   </g>
@@ -59,7 +59,7 @@
       <text x="700" y="183" fill="#64748b">const</text><text x="748" y="183" fill="#e2e8f0"> focus </text><text x="802" y="183" fill="#c4b5fd">=</text><text x="818" y="183" fill="#e2e8f0"> [</text>
       <text x="726" y="211" fill="#67e8f9">&quot;product UX&quot;,</text>
       <text x="726" y="237" fill="#a5b4fc">&quot;automation&quot;,</text>
-      <text x="726" y="263" fill="#e9d5ff">&quot;intelligent systems&quot;</text>
+      <text x="726" y="263" fill="#e9d5ff">&quot;graph ML&quot;</text>
       <text x="700" y="289" fill="#e2e8f0">];</text>
       <text x="700" y="321" fill="#34d399">✓</text><text x="726" y="321" fill="#cbd5e1"> build → test → ship</text>
     </g>
