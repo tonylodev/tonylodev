@@ -2,7 +2,7 @@
 
 <img src="./assets/terminal-hero.svg" width="100%" alt="Tony Lo, full-stack developer — web systems, QA automation, graph ML, and interactive games" />
 
-<a href="https://github.com/tonytheg?tab=repositories"><img src="https://img.shields.io/badge/explore%20the%20work-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Explore Tony's GitHub repositories" /></a>
+<a href="https://github.com/tonylodev?tab=repositories"><img src="https://img.shields.io/badge/explore%20the%20work-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Explore Tony's GitHub repositories" /></a>
 <a href="mailto:tonyloyat@gmail.com"><img src="https://img.shields.io/badge/contact-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tony" /></a>
 
 </div>
@@ -66,17 +66,17 @@ I'm **Tony Lo**, a Computer Science graduate from **Auburn University**. I build
 <tr>
 <td width="50%">
 
-### 🐟 [Fish Life Adventure](https://github.com/tonytheg/fish-life-adventure)
+### 🐟 [Fish Life Adventure](https://github.com/tonylodev/fish-life-adventure)
 **HTML5 Canvas · JavaScript**
 
 An educational aquarium ecosystem game for elementary and middle school students. Guide a fish through clean water, collect oxygen bubbles near plants, and avoid pollution and floating trash while managing its health.
 
-🎮 [**Play it live →**](https://tonytheg.github.io/fish-life-adventure/)
+🎮 [**Play it live →**](https://tonylodev.github.io/fish-life-adventure/)
 
 </td>
 <td width="50%">
 
-### 🔍 [HN Sort Validator](https://github.com/tonytheg/hn-sort-validator)
+### 🔍 [HN Sort Validator](https://github.com/tonylodev/hn-sort-validator)
 **Playwright · Node.js · Automated Testing**
 
 A QA automation tool that scrapes Hacker News, validates article sorting order, and generates comprehensive HTML test reports.
@@ -86,7 +86,7 @@ A QA automation tool that scrapes Hacker News, validates article sorting order, 
 <tr>
 <td width="50%">
 
-### 📊 [k-NN Graph Classifier](https://github.com/tonytheg/knn-graph-classifier)
+### 📊 [k-NN Graph Classifier](https://github.com/tonylodev/knn-graph-classifier)
 **Python · NetworkX · NumPy · Matplotlib**
 
 Machine learning project implementing k-NN classification on real-world collaboration network graphs with custom feature extraction.
@@ -94,7 +94,7 @@ Machine learning project implementing k-NN classification on real-world collabor
 </td>
 <td width="50%">
 
-### 📚 [Bookstore Database](https://github.com/tonytheg/bookstore-database)
+### 📚 [Bookstore Database](https://github.com/tonylodev/bookstore-database)
 **MySQL · PHP · HTML**
 
 Full-stack relational database system for an online bookstore with 19 complex SQL queries, web interface, and ER schema design.
@@ -112,7 +112,7 @@ Full-stack relational database system for an online bookstore with 19 complex SQ
 
 [![Email](https://img.shields.io/badge/Email-tonyloyat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonyloyat@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yat_Tung_Lo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yat-tung-loo)
-[![GitHub](https://img.shields.io/badge/GitHub-tonytheg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonytheg)
+[![GitHub](https://img.shields.io/badge/GitHub-tonylodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonylodev)
 
 </div>
 
