@@ -69,9 +69,11 @@ I'm **Tony Lo**, a Computer Science graduate from **Auburn University**. I build
 ### 🐟 [Fish Life Adventure](https://github.com/tonylodev/fish-life-adventure)
 **HTML5 Canvas · JavaScript**
 
-An educational aquarium ecosystem game for elementary and middle school students. Guide a fish through clean water, collect oxygen bubbles near plants, and avoid pollution and floating trash while managing its health.
+An educational aquarium game about oxygen, health, and pollution. Built with a canvas game loop, collision detection, and a state machine, with responsive keyboard/touch controls and a text status display.
 
 🎮 [**Play it live →**](https://tonylodev.github.io/fish-life-adventure/)
+
+[Game implementation](https://github.com/tonylodev/fish-life-adventure/blob/main/index.html)
 
 </td>
 <td width="50%">
@@ -79,7 +81,9 @@ An educational aquarium ecosystem game for elementary and middle school students
 ### 🔍 [HN Sort Validator](https://github.com/tonylodev/hn-sort-validator)
 **Playwright · Node.js · Automated Testing**
 
-A QA automation tool that scrapes Hacker News, validates article sorting order, and generates comprehensive HTML test reports.
+Checks that 100 unique Hacker News articles are newest-to-oldest and writes an HTML report. Handles rate limits, duplicate items, and stalled pagination; incomplete collection fails the run.
+
+[Unit tests and CI](https://github.com/tonylodev/hn-sort-validator/actions/workflows/test.yml) · [Local Chromium fixture tests](https://github.com/tonylodev/hn-sort-validator/blob/main/integration/scraper.browser.cjs)
 
 </td>
 </tr>
@@ -89,7 +93,9 @@ A QA automation tool that scrapes Hacker News, validates article sorting order, 
 ### 📊 [k-NN Graph Classifier](https://github.com/tonylodev/knn-graph-classifier)
 **Python · NetworkX · NumPy · Matplotlib**
 
-Machine learning project implementing k-NN classification on real-world collaboration network graphs with custom feature extraction.
+From-scratch k-NN and F1 metrics on a real collaboration graph, with five-fold stratification, normalization fit on each training fold, and a majority-class baseline. Predicts a synthetic degree-based label using full-graph features (transductive evaluation).
+
+[Results and evaluation limits](https://github.com/tonylodev/knn-graph-classifier#-results) · [Regression tests](https://github.com/tonylodev/knn-graph-classifier/blob/main/tests/test_knn_classifier.py)
 
 </td>
 <td width="50%">
@@ -97,7 +103,9 @@ Machine learning project implementing k-NN classification on real-world collabor
 ### 📚 [Bookstore Database](https://github.com/tonylodev/bookstore-database)
 **MySQL · PHP · HTML**
 
-Full-stack relational database system for an online bookstore with 19 complex SQL queries, web interface, and ER schema design.
+Seven related MySQL tables, fictional demo data, and 19 SQL examples from filtering to multi-table reporting. The read-only PHP interface handles query failures and nullable results; MySQL CI checks the schema, seed data, and queries.
+
+[Database CI](https://github.com/tonylodev/bookstore-database/actions/workflows/database.yml) · [Local PHP controller tests](https://github.com/tonylodev/bookstore-database/blob/main/tests/interface_test.php)
 
 </td>
 </tr>
